@@ -12,13 +12,22 @@ $ whoami
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=full-stack+engineer+%C2%B7+AI%2FML+%C2%B7+cloud;from+idea+%E2%86%92+prototype+%E2%86%92+deployed" alt="Typing SVG"/></a>
 
-<sub>Mangalore, India &nbsp;·&nbsp; CS Undergraduate @ AIET &nbsp;·&nbsp; <a href="https://radhika-lac.vercel.app/">radhika-lac.vercel.app</a></sub>
+<sub>Mangalore, India &nbsp;·&nbsp; CS Undergraduate @ AIET &nbsp;·&nbsp; <a href="https://radhika-lac.vercel.app/"><b>radhika-lac.vercel.app</b></a></sub>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:0EA5E9,100:0B0F19&height=3&width=100%"/>
+
 <br/>
 
-> *"I don't just want code that runs — I want it to feel like something. Build it end to end, then make it feel alive."*
+<div align="center">
+<table><tr><td>
+
+*"I don't just want code that runs — I want it to feel like something.*<br/>
+*Build it end to end, then make it feel alive."*
+
+</td></tr></table>
+</div>
 
 <br/>
 
@@ -26,7 +35,7 @@ $ whoami
 <tr>
 <td width="50%" valign="top">
 
-### ▍ currently
+### 🜁&nbsp; currently
 
 ```diff
 + shipping AI-agent & cloud prototypes
@@ -38,7 +47,7 @@ $ whoami
 </td>
 <td width="50%" valign="top">
 
-### ▍ credentials
+### 🜂&nbsp; credentials
 
 ```yaml
 certified:  Salesforce Platform Developer
@@ -51,16 +60,14 @@ domains:    full-stack · AI/ML · AR · cloud
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:1E293B,100:0B0F19&height=3&width=100%"/>
 
 <div align="center">
 
-### ▍ the stack
+### 🜃&nbsp; the stack
 
 <table>
-<tr>
-<th align="left">layer</th><th align="left">tools</th>
-</tr>
+<tr><th align="left">layer</th><th align="left">tools</th></tr>
 <tr>
 <td>🧬&nbsp; language</td>
 <td>
@@ -106,22 +113,32 @@ domains:    full-stack · AI/ML · AR · cloud
 </tr>
 <tr>
 <td>🧩&nbsp; platform</td>
-<td>
-<img src="https://img.shields.io/badge/Salesforce-1E293B?style=flat-square&logo=salesforce&logoColor=00A1E0"/>
-</td>
+<td><img src="https://img.shields.io/badge/Salesforce-1E293B?style=flat-square&logo=salesforce&logoColor=00A1E0"/></td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:1E293B,100:0B0F19&height=3&width=100%"/>
 
-### ▍ build log
+### 🜄&nbsp; flagship build
+
+<table width="100%"><tr><td>
+
+**🌐 Portfolio** — dark, cinematic, WebGL-driven
+
+Interactive 3D developer portfolio with a magnetic cursor, GLSL shaders, and motion via GSAP + Lenis. Bilingual (EN/DE) project case studies throughout.
+
+<img src="https://img.shields.io/badge/-Vue_3-0EA5E9?style=flat-square&labelColor=1E293B"/> <img src="https://img.shields.io/badge/-TypeScript-0EA5E9?style=flat-square&labelColor=1E293B"/> <img src="https://img.shields.io/badge/-three.js-0EA5E9?style=flat-square&labelColor=1E293B"/> <img src="https://img.shields.io/badge/-GSAP-0EA5E9?style=flat-square&labelColor=1E293B"/>
+
+**[→ visit radhika-lac.vercel.app](https://radhika-lac.vercel.app/)**
+
+</td></tr></table>
+
+### 🜄&nbsp; build log
 
 <table width="100%">
-<tr><td width="18%"><b>portfolio</b><br/><sub>ongoing</sub></td>
-<td>Dark, cinematic, WebGL-driven developer portfolio — magnetic cursor, GLSL shaders, GSAP + Lenis motion, bilingual (EN/DE) case studies.<br/><code>Vue 3 · TypeScript · three.js</code> · <a href="https://radhika-lac.vercel.app/">live →</a></td></tr>
-<tr><td><b>pathfinder</b><br/><sub>EDC major project</sub></td>
+<tr><td width="18%"><b>pathfinder</b><br/><sub>EDC major project</sub></td>
 <td>AR-enabled campus navigation prototype — real-time wayfinding built for spatial UX rather than a flat map overlay.<br/><code>AR · Mobile · Spatial Computing</code></td></tr>
 <tr><td><b>vajra-setu</b><br/><sub>Bharatiya Antariksh Hackathon</sub></td>
 <td>Route-resilience system architecture for PS4, designed to keep routing functional under disruption — one of 14 problem statements analyzed end-to-end.<br/><code>System Design · Disaster Response</code></td></tr>
@@ -129,11 +146,11 @@ domains:    full-stack · AI/ML · AR · cloud
 <td>GenAI retail-promotion optimisation agent, built drag-and-drop on Dify — exploring agentic workflow patterns.<br/><code>GenAI · Agents · Automation</code></td></tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:1E293B,100:0B0F19&height=3&width=100%"/>
 
 <div align="center">
 
-### ▍ activity
+### 🜅&nbsp; activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhikaraikar&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=F59E0B&hide_border=true&custom_title=Contribution%20Rhythm" width="100%"/>
 
@@ -146,11 +163,11 @@ domains:    full-stack · AI/ML · AR · cloud
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:0EA5E9,100:0B0F19&height=3&width=100%"/>
 
 <div align="center">
 
-### ▍ reach me
+### 🜆&nbsp; reach me
 
 <a href="https://www.linkedin.com/in/radhikamraikar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:radhikaraikar785@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
