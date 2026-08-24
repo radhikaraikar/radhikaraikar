@@ -14,17 +14,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://radhika-lac.vercel.app/)
 [![Salesforce Certified](https://img.shields.io/badge/Salesforce-Certified%20Platform%20Dev-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=radhikaraikar&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=radhikaraikar&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+---
+
+## <img src="https://img.shields.io/badge/-%3E-0EA5E9?style=flat-square" height="20"/>&nbsp; about.config
 
 <table>
 <tr>
 <td width="55%" valign="top">
-
-### `>` about.config
 
 ```json
 {
@@ -47,49 +47,71 @@
 </td>
 <td width="45%" valign="top">
 
-### `>` signal
-
-- 🎓&nbsp; CS undergrad, strong academic record
-- 🧠&nbsp; AI/ML integration across full-stack apps
-- ☁️&nbsp; AWS + Google Cloud, deployment-minded
-- 🏆&nbsp; Salesforce Certified Platform Developer
-- 🥇&nbsp; Agentblazer Champion (Trailhead)
-- 🎯&nbsp; Actively pursuing campus placements
-- 🌐&nbsp; **[radhika-lac.vercel.app](https://radhika-lac.vercel.app/)**
+|  |  |
+|---|---|
+| 🎓 | CS undergrad, strong academic record |
+| 🧠 | AI/ML integration across full-stack apps |
+| ☁️ | AWS + Google Cloud, deployment-minded |
+| 🏆 | Salesforce Certified Platform Developer |
+| 🥇 | Agentblazer Champion (Trailhead) |
+| 🎯 | Actively pursuing campus placements |
+| 🌐 | **[radhika-lac.vercel.app](https://radhika-lac.vercel.app/)** |
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-### `>` tech.stack
+## <img src="https://img.shields.io/badge/-%3E-0EA5E9?style=flat-square" height="20"/>&nbsp; tech.stack
 
 <div align="center">
 
-<table>
-<tr><td align="center"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css&theme=dark"/></td></tr>
-<tr><td align="center"><b>Frontend & Motion</b></td><td><img src="https://skillicons.dev/icons?i=vue,react,threejs&theme=dark"/></td></tr>
-<tr><td align="center"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express&theme=dark"/></td></tr>
-<tr><td align="center"><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel&theme=dark"/></td></tr>
-<tr><td align="center"><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/></td></tr>
-<tr><td align="center"><b>Platform</b></td><td><img src="https://skillicons.dev/icons?i=salesforce&theme=dark"/></td></tr>
-</table>
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-0B0F19?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0B0F19?style=for-the-badge&logo=openjdk&logoColor=F59E0B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0F19?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0F19?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+**Frontend & Motion**
+<br/>
+![Vue](https://img.shields.io/badge/Vue_3-0B0F19?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-0B0F19?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-0B0F19?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
+![GSAP](https://img.shields.io/badge/GSAP-0B0F19?style=for-the-badge&logo=greensock&logoColor=88CE02)
+
+**Backend**
+<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0F19?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Flask](https://img.shields.io/badge/Flask-0B0F19?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0B0F19?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+**Cloud & DevOps**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-0B0F19?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/Google_Cloud-0B0F19?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0B0F19?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0B0F19?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0B0F19?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+**Data & Platform**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0F19?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0B0F19?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0F19?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Salesforce](https://img.shields.io/badge/Salesforce-0B0F19?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-### `>` featured.builds
+## <img src="https://img.shields.io/badge/-%3E-0EA5E9?style=flat-square" height="20"/>&nbsp; featured.builds
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 🌐 Portfolio
+### 🌐&nbsp; Portfolio
 **Dark, cinematic, WebGL-driven**
 
-`Vue 3` `TypeScript` `three.js` `GSAP`
+![Vue](https://img.shields.io/badge/-Vue_3-1E293B?style=flat-square) ![TS](https://img.shields.io/badge/-TypeScript-1E293B?style=flat-square) ![Three](https://img.shields.io/badge/-three.js-1E293B?style=flat-square) ![GSAP](https://img.shields.io/badge/-GSAP-1E293B?style=flat-square)
 
 - Interactive 3D developer portfolio with a magnetic cursor
 - Bilingual (EN/DE) project case studies
@@ -100,10 +122,10 @@
 </td>
 <td width="33%" valign="top">
 
-#### 🧭 PathFinder
+### 🧭&nbsp; PathFinder
 **AR campus navigation**
 
-`AR` `Mobile` `Spatial Computing`
+![AR](https://img.shields.io/badge/-AR-1E293B?style=flat-square) ![Mobile](https://img.shields.io/badge/-Mobile-1E293B?style=flat-square) ![Spatial](https://img.shields.io/badge/-Spatial_Computing-1E293B?style=flat-square)
 
 - Real-time AR wayfinding prototype
 - Built and evaluated as a major EDC project
@@ -112,10 +134,10 @@
 </td>
 <td width="33%" valign="top">
 
-#### 🛰️ VAJRA-SETU
+### 🛰️&nbsp; VAJRA-SETU
 **Route resilience architecture**
 
-`System Design` `Disaster Response`
+![System](https://img.shields.io/badge/-System_Design-1E293B?style=flat-square) ![Disaster](https://img.shields.io/badge/-Disaster_Response-1E293B?style=flat-square)
 
 - Designed for PS4 (Route Resilience) at Bharatiya Antariksh Hackathon
 - Resilient routing under disruption
@@ -125,9 +147,7 @@
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-### `>` github.stats
+## <img src="https://img.shields.io/badge/-%3E-0EA5E9?style=flat-square" height="20"/>&nbsp; github.stats
 
 <div align="center">
 
@@ -136,15 +156,15 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikaraikar&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 
-<sub>Stats render live on github.com — some local editors/previews block external images and show broken icons; view the file directly on GitHub to see them load.</sub>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=radhikaraikar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" height="110"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+## <img src="https://img.shields.io/badge/-%3E-0EA5E9?style=flat-square" height="20"/>&nbsp; connect
 
 <div align="center">
-
-### `>` connect
 
 Open to full-stack, AI/ML, and cloud engineering roles — always up for a conversation about system design or shipping something interesting.
 
