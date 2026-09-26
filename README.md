@@ -2,81 +2,57 @@
 
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:111827,65:0EA5E9,100:F59E0B&height=260&section=header&text=RADHIKA%20RAIKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20AI%2FML%20%7C%20CLOUD&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:111827,65:0EA5E9,100:F59E0B&height=260&section=header&text=RADHIKA%20RAIKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20AI%2FML%20%7C%20CLOUD&descAlignY=58&descSize=17&animation=fadeIn" alt="Radhika Raikar - Full-Stack Engineer, AI/ML, Cloud"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=building+systems+that+feel+alive;full-stack+%C2%B7+AI%2FML+%C2%B7+cloud;idea+%E2%86%92+architecture+%E2%86%92+product+%E2%86%92+deployment;turning+complex+problems+into+clean+interfaces;probably+debugging+something+right+now"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=building+systems+that+feel+alive;full-stack+%C2%B7+AI%2FML+%C2%B7+cloud;idea+%E2%86%92+architecture+%E2%86%92+product+%E2%86%92+deployment;turning+complex+problems+into+clean+interfaces;probably+debugging+something+right+now" alt="Typing animation of engineering taglines"/>
 
 <br><br>
 
 <a href="https://radhika-lac.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/radhikaraikar">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/radhikamraikar">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=radhikaraikar&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-F59E0B?style=for-the-badge&labelColor=05070D"/>
+<img src="https://komarev.com/ghpvc/?username=radhikaraikar&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile view counter"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-F59E0B?style=for-the-badge&labelColor=05070D" alt="Open to work"/>
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="520"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="480" alt="Animated coding illustration"/>
 
 <br><br>
 
-<sub>📍 Mangalore, India  ·  🎓 Computer Science Undergraduate @ AIET  ·  🚀 Building for the web, cloud & intelligent systems</sub>
+<sub>📍 Mangalore, India &nbsp;·&nbsp; 🎓 Computer Science Undergraduate @ AIET &nbsp;·&nbsp; 🚀 Building for the web, cloud & intelligent systems</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Complex problems deserve simple interfaces.**
+> I don't just want code that runs — I want software that feels intentional. Design it. Engineer it. Deploy it. Make it unforgettable.
 
 </div>
 
 ---
 
-<div align="center">
-
-### `whoami`
-
-<table>
-<tr>
-<td align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   I don't just want code that runs.          │
-│                                              │
-│   I want software that feels intentional.    │
-│                                              │
-│   Design it.                                 │
-│   Engineer it.                               │
-│   Deploy it.                                 │
-│   Then make it unforgettable.                │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 ## ⚡ What I'm Building
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### `01` — Engineering
-
+**Engineering**
 ```diff
 + Full-stack applications
 + AI-powered products
@@ -87,34 +63,22 @@
 ```
 
 </td>
-
 <td width="50%" valign="top">
 
-### `02` — Currently
-
+**Right Now**
 ```diff
 + Shipping AI & cloud prototypes
 + Building immersive interfaces
 + Exploring agentic systems
 + Strengthening system design
-+ Preparing for software roles
-! Open to opportunities
+! Open to software roles
 ```
 
 </td>
-
 </tr>
 </table>
 
----
-
-## 🧠 Engineering Philosophy
-
 <div align="center">
-
-> **Complex problems deserve simple interfaces.**
-
-<br>
 
 <table>
 <tr>
@@ -132,334 +96,175 @@
 
 ---
 
-# 🛠️ The Stack
+## 🛠️ The Stack
 
 <div align="center">
 
-### Languages
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,cpp&theme=dark" alt="Python, Java, TypeScript, JavaScript, C++"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,cpp&theme=dark"/>
+**Frontend & Creative Development**
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,threejs,tailwind,html,css&theme=dark" alt="React, Vue, Next.js, Three.js, Tailwind, HTML, CSS"/>
 
-### Frontend & Creative Development
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&theme=dark" alt="Node.js, Express, Spring, Flask"/>
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,threejs,tailwind,html,css&theme=dark"/>
+**AI / ML**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch, scikit-learn"/>
 
-### Backend
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,git,github&theme=dark" alt="AWS, GCP, Docker, Kubernetes, Vercel, Git, GitHub"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&theme=dark"/>
+**Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase"/>
 
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,git,github&theme=dark"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux&theme=dark"/>
+**Tools**
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux&theme=dark" alt="VS Code, Figma, Postman, Linux"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Work
-
-<div align="center">
+## 🚀 Featured Work
 
 <table width="100%">
 
 <tr>
 <td width="50%" valign="top">
 
-## 🌌 Cinematic Portfolio
-
+### 🌌 Cinematic Portfolio
 **Interactive 3D Developer Experience**
 
-A WebGL-driven portfolio focused on immersive interaction rather than conventional portfolio layouts.
+A WebGL-driven portfolio built around immersive interaction rather than conventional layouts — Three.js scenes, GLSL shaders, GSAP motion, Lenis smooth scrolling, a magnetic cursor, and bilingual case studies.
 
-**Highlights**
-
-* Three.js / WebGL
-* GLSL shaders
-* GSAP motion
-* Lenis smooth scrolling
-* Magnetic cursor
-* Interactive 3D scenes
-* Bilingual case studies
-
-<br>
+`Three.js` `GLSL` `GSAP` `WebGL`
 
 <a href="https://radhika-lac.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20LIVE%20→-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20→-0EA5E9?style=for-the-badge" alt="View live portfolio"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🧭 Pathfinder
-
+### 🧭 Pathfinder
 **AR Campus Navigation**
 
-An augmented-reality navigation prototype designed around spatial UX and real-world wayfinding.
+An augmented-reality navigation prototype built around spatial UX and real-world wayfinding, with real-time positioning on mobile.
 
-**Focus**
-
-* AR navigation
-* Mobile computing
-* Spatial interfaces
-* Real-time positioning
-* Human-centered UX
-
-```text
-AR → Mobile → Spatial Computing
-```
+`AR` `Mobile` `Spatial Computing`
 
 </td>
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 🛰️ Vajra Setu
-
+### 🛰️ Vajra Setu
 **Resilient Route Architecture**
 
-A disaster-response routing architecture developed around maintaining connectivity and route availability under disruption.
+A disaster-response routing system designed to keep connectivity and route availability intact under network disruption.
 
-```text
-System Design
-      ↓
-Fault Tolerance
-      ↓
-Disaster Response
-      ↓
-Resilient Routing
-```
+`System Design` `Fault Tolerance` `Routing`
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🤖 Retail Agent
-
+### 🤖 Retail Agent
 **GenAI Retail Optimization**
 
-An agentic workflow prototype exploring how GenAI can automate retail promotion decisions.
+An agentic workflow prototype exploring how GenAI can automate retail promotion decisions — from data to reasoning to action. Built during an AI Agent Builder challenge.
 
-```text
-Data
- ↓
-Agent
- ↓
-Reasoning
- ↓
-Optimization
- ↓
-Action
-```
-
-Built during an AI Agent Builder challenge.
+`GenAI` `Agents` `Optimization`
 
 </td>
-
 </tr>
 
 </table>
 
-</div>
-
 ---
 
-# 🧪 Things I'm Exploring
-
-<div align="center">
-
-```text
-                    ┌─────────────────┐
-                    │   INTELLIGENCE  │
-                    └────────┬────────┘
-                             │
-                ┌────────────┼────────────┐
-                ↓            ↓            ↓
-             AI / ML      AGENTS       LLMs
-                │            │            │
-                └────────────┼────────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │     SYSTEMS     │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ↓              ↓              ↓
-            CLOUD         BACKEND        DATABASES
-              │              │              │
-              └──────────────┼──────────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │    EXPERIENCE   │
-                    └────────┬────────┘
-                             │
-                    WEB · 3D · AR · UX
-```
-
-</div>
-
----
-
-# 🏆 Credentials
+## 🏆 Credentials
 
 <table width="100%">
 <tr>
+<td align="center" width="25%">
 
-<td align="center">
-
-### 🎓 Academics
-
-**9.0 CGPA**
-
+**🎓 Academics**
+9.0 CGPA
 Computer Science
-Undergraduate
 
 </td>
+<td align="center" width="25%">
 
-<td align="center">
-
-### ☁️ Salesforce
-
-**Platform Developer**
-
+**☁️ Salesforce**
+Platform Developer
 Certified
 
 </td>
+<td align="center" width="25%">
 
-<td align="center">
-
-### 🧠 Recognition
-
-**Agentblazer Champion**
-
+**🧠 Recognition**
+Agentblazer Champion
 Trailhead
 
 </td>
+<td align="center" width="25%">
 
-<td align="center">
-
-### 💻 Domains
-
-**4+ Areas**
-
-Full-stack · AI/ML · AR · Cloud
+**💻 Domains**
+Full-stack · AI/ML
+AR · Cloud
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhikaraikar&bg_color=05070D&color=0EA5E9&line=0EA5E9&point=F59E0B&area=true&hide_border=true&custom_title=CONTRIBUTION%20RHYTHM" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=radhikaraikar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=05070D&title_color=0EA5E9" height="175" alt="GitHub stats for radhikaraikar"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikaraikar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=05070D&title_color=0EA5E9" height="175" alt="Most used languages"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=radhikaraikar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=05070D&title_color=0EA5E9" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikaraikar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=05070D&title_color=0EA5E9" height="175"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhikaraikar&bg_color=05070D&color=0EA5E9&line=0EA5E9&point=F59E0B&area=true&hide_border=true&custom_title=CONTRIBUTION%20RHYTHM" width="100%" alt="Contribution activity graph"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikaraikar&theme=tokyonight&hide_border=true&background=05070D&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9" height="175"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=radhikaraikar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=radhikaraikar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub achievement trophies"/>
 
 </div>
 
 ---
 
-# 📈 My Development Loop
-
-<div align="center">
-
-```text
-        ┌───────────────┐
-        │     IDEA      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   RESEARCH    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   ARCHITECT   │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BUILD     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    TEST       │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    DEPLOY     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    POLISH     │
-        └───────┬───────┘
-                │
-                └──────────────→ 🔁
-```
-
-</div>
-
----
-
-# 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://radhika-lac.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0EA5E9?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0EA5E9?style=for-the-badge&labelColor=05070D" alt="Portfolio"/>
 </a>
-
 <a href="https://github.com/radhikaraikar">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/⌘%20GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/radhikamraikar">
-<img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:radhikaraikar785@gmail.com">
-<img src="https://img.shields.io/badge/✉%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/✉%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
 ### `BUILD · BREAK · LEARN · REPEAT`
 
-<sub>
-If you're building something interesting, let's build something even better.
-</sub>
+<sub>If you're building something interesting, let's build something even better.</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:111827,65:0EA5E9,100:F59E0B&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:111827,65:0EA5E9,100:F59E0B&height=130&section=footer" alt=""/>
 
 <sub>crafted with curiosity · engineered with intention · shipped to the cloud</sub>
 
