@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:111827,65:0EA5E9,100:F59E0B&height=260&section=header&text=RADHIKA%20RAIKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20AI%2FML%20%7C%20CLOUD&descAlignY=58&descSize=17&animation=fadeIn" alt="Radhika Raikar - Full-Stack Engineer, AI/ML, Cloud"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070D,35:111827,65:0EA5E9,100:F59E0B&height=260&section=header&text=RADHIKA%20RAIKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20AI%2FML%20%7C%20CLOUD&descAlignY=58&descSize=17&animation=twinkling" alt="Radhika Raikar - Full-Stack Engineer, AI/ML, Cloud"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=building+systems+that+feel+alive;full-stack+%C2%B7+AI%2FML+%C2%B7+cloud;idea+%E2%86%92+architecture+%E2%86%92+product+%E2%86%92+deployment;turning+complex+problems+into+clean+interfaces;probably+debugging+something+right+now" alt="Typing animation of engineering taglines"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=building+systems+that+feel+alive;full-stack+%C2%B7+AI%2FML+%C2%B7+cloud;idea+%E2%86%92+architecture+%E2%86%92+product+%E2%86%92+deployment;probably+debugging+something+right+now" alt="Typing animation of engineering taglines"/>
 
-<br><br>
+<br>
 
 <a href="https://radhika-lac.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -25,26 +23,20 @@
 <img src="https://komarev.com/ghpvc/?username=radhikaraikar&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile view counter"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-F59E0B?style=for-the-badge&labelColor=05070D" alt="Open to work"/>
 
-<br><br>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="480" alt="Animated coding illustration"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0EA5E9&height=40&section=header" alt=""/>
 
-<br><br>
+<div align="center">
 
-<sub>📍 Mangalore, India &nbsp;·&nbsp; 🎓 Computer Science Undergraduate @ AIET &nbsp;·&nbsp; 🚀 Building for the web, cloud & intelligent systems</sub>
+**Complex problems deserve simple interfaces.**
+I don't just want code that runs — I want software that feels intentional. Design it. Engineer it. Deploy it. Make it unforgettable.
 
 </div>
 
 <br>
 
-<div align="center">
-
-> **Complex problems deserve simple interfaces.**
-> I don't just want code that runs — I want software that feels intentional. Design it. Engineer it. Deploy it. Make it unforgettable.
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:F59E0B&height=3&section=header" alt=""/>
 
 ## ⚡ What I'm Building
 
@@ -79,7 +71,6 @@
 </table>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center">⚙️<br><b>ENGINEER</b><br><sub>Build it correctly.</sub></td>
@@ -91,10 +82,9 @@
 <td align="center">✨<br><b>POLISH</b><br><sub>Make it memorable.</sub></td>
 </tr>
 </table>
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:0EA5E9&height=3&section=header" alt=""/>
 
 ## 🛠️ The Stack
 
@@ -123,12 +113,11 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:F59E0B&height=3&section=header" alt=""/>
 
 ## 🚀 Featured Work
 
 <table width="100%">
-
 <tr>
 <td width="50%" valign="top">
 
@@ -155,7 +144,6 @@ An augmented-reality navigation prototype built around spatial UX and real-world
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -178,10 +166,9 @@ An agentic workflow prototype exploring how GenAI can automate retail promotion 
 
 </td>
 </tr>
-
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:0EA5E9&height=3&section=header" alt=""/>
 
 ## 🏆 Credentials
 
@@ -218,7 +205,21 @@ AR · Cloud
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:F59E0B&height=3&section=header" alt=""/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/radhikaraikar/radhikaraikar/output/github-contribution-grid-snake-dark.svg" alt="A snake game animation eating my GitHub contribution graph"/>
+<!--END_SECTION:snake-->
+
+<sub>⚙️ Live animated snake that eats through my actual contribution graph — see setup note below.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:0EA5E9&height=3&section=header" alt=""/>
 
 ## 📊 GitHub Activity
 
@@ -229,7 +230,7 @@ AR · Cloud
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhikaraikar&bg_color=05070D&color=0EA5E9&line=0EA5E9&point=F59E0B&area=true&hide_border=true&custom_title=CONTRIBUTION%20RHYTHM" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikaraikar&theme=tokyonight&hide_border=true&background=05070D&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9" height="175" alt="Contribution streak"/>
 
 <br><br>
 
@@ -237,23 +238,26 @@ AR · Cloud
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:F59E0B&height=3&section=header" alt=""/>
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://radhika-lac.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0EA5E9?style=for-the-badge&labelColor=05070D" alt="Portfolio"/>
+<a href="https://radhika-lac.vercel.app/" title="Portfolio">
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="34" height="34" alt="Portfolio"/>
 </a>
-<a href="https://github.com/radhikaraikar">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+&nbsp;&nbsp;
+<a href="https://github.com/radhikaraikar" title="GitHub">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" height="34" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/radhikamraikar">
-<img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/radhikamraikar" title="LinkedIn">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn"/>
 </a>
-<a href="mailto:radhikaraikar785@gmail.com">
-<img src="https://img.shields.io/badge/✉%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+&nbsp;&nbsp;
+<a href="mailto:radhikaraikar785@gmail.com" title="Email">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email"/>
 </a>
 
 <br><br>
