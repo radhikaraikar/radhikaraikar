@@ -232,10 +232,6 @@ AR · Cloud
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikaraikar&theme=tokyonight&hide_border=true&background=05070D&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9" height="175" alt="Contribution streak"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=radhikaraikar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub achievement trophies"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:F59E0B&height=3&section=header" alt=""/>
